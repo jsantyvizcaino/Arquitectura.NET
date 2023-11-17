@@ -1,0 +1,15 @@
+D:\santy\KRUGER\CLIENTES\CENACE\REQUERIMIENTOS\REQ SIstema Web\SERVICIOSCENACE\Servicio.Application\bin\Debug\net6.0\Servicio.Application.deps.json
+D:\santy\KRUGER\CLIENTES\CENACE\REQUERIMIENTOS\REQ SIstema Web\SERVICIOSCENACE\Servicio.Application\bin\Debug\net6.0\Servicio.Application.dll
+D:\santy\KRUGER\CLIENTES\CENACE\REQUERIMIENTOS\REQ SIstema Web\SERVICIOSCENACE\Servicio.Application\bin\Debug\net6.0\Servicio.Application.pdb
+D:\santy\KRUGER\CLIENTES\CENACE\REQUERIMIENTOS\REQ SIstema Web\SERVICIOSCENACE\Servicio.Application\bin\Debug\net6.0\Servicio.Domain.dll
+D:\santy\KRUGER\CLIENTES\CENACE\REQUERIMIENTOS\REQ SIstema Web\SERVICIOSCENACE\Servicio.Application\bin\Debug\net6.0\Servicio.Domain.pdb
+D:\santy\KRUGER\CLIENTES\CENACE\REQUERIMIENTOS\REQ SIstema Web\SERVICIOSCENACE\Servicio.Application\obj\Debug\net6.0\Servicio.Application.csproj.AssemblyReference.cache
+D:\santy\KRUGER\CLIENTES\CENACE\REQUERIMIENTOS\REQ SIstema Web\SERVICIOSCENACE\Servicio.Application\obj\Debug\net6.0\Servicio.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\santy\KRUGER\CLIENTES\CENACE\REQUERIMIENTOS\REQ SIstema Web\SERVICIOSCENACE\Servicio.Application\obj\Debug\net6.0\Servicio.Application.AssemblyInfoInputs.cache
+D:\santy\KRUGER\CLIENTES\CENACE\REQUERIMIENTOS\REQ SIstema Web\SERVICIOSCENACE\Servicio.Application\obj\Debug\net6.0\Servicio.Application.AssemblyInfo.cs
+D:\santy\KRUGER\CLIENTES\CENACE\REQUERIMIENTOS\REQ SIstema Web\SERVICIOSCENACE\Servicio.Application\obj\Debug\net6.0\Servicio.Application.csproj.CoreCompileInputs.cache
+D:\santy\KRUGER\CLIENTES\CENACE\REQUERIMIENTOS\REQ SIstema Web\SERVICIOSCENACE\Servicio.Application\obj\Debug\net6.0\Servicio.Application.csproj.CopyComplete
+D:\santy\KRUGER\CLIENTES\CENACE\REQUERIMIENTOS\REQ SIstema Web\SERVICIOSCENACE\Servicio.Application\obj\Debug\net6.0\Servicio.Application.dll
+D:\santy\KRUGER\CLIENTES\CENACE\REQUERIMIENTOS\REQ SIstema Web\SERVICIOSCENACE\Servicio.Application\obj\Debug\net6.0\refint\Servicio.Application.dll
+D:\santy\KRUGER\CLIENTES\CENACE\REQUERIMIENTOS\REQ SIstema Web\SERVICIOSCENACE\Servicio.Application\obj\Debug\net6.0\Servicio.Application.pdb
+D:\santy\KRUGER\CLIENTES\CENACE\REQUERIMIENTOS\REQ SIstema Web\SERVICIOSCENACE\Servicio.Application\obj\Debug\net6.0\ref\Servicio.Application.dll

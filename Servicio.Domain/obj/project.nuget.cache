@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "rBx4gx2Ht1HfSgcxVfs440uZRs5vGILTjgtHtPwVTbfSlpjNyGA/k36aN1BWMtTYEGZYbuz71G2nPYuDkI3cbQ==",
+  "success": true,
+  "projectFilePath": "D:\\santy\\KRUGER\\CLIENTES\\CENACE\\REQUERIMIENTOS\\REQ SIstema Web\\SERVICIOSCENACE\\Servicio.Domain\\Servicio.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\santy\\.nuget\\packages\\ardalis.specification\\7.0.0\\ardalis.specification.7.0.0.nupkg.sha512",
+    "C:\\Users\\santy\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\santy\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\santy\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\santy\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\santy\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

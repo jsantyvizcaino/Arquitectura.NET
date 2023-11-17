@@ -1,0 +1,12 @@
+D:\santy\KRUGER\CLIENTES\CENACE\REQUERIMIENTOS\REQ SIstema Web\SERVICIOSCENACE\Servicio.Domain\bin\Debug\net6.0\Servicio.Domain.deps.json
+D:\santy\KRUGER\CLIENTES\CENACE\REQUERIMIENTOS\REQ SIstema Web\SERVICIOSCENACE\Servicio.Domain\bin\Debug\net6.0\Servicio.Domain.dll
+D:\santy\KRUGER\CLIENTES\CENACE\REQUERIMIENTOS\REQ SIstema Web\SERVICIOSCENACE\Servicio.Domain\bin\Debug\net6.0\Servicio.Domain.pdb
+D:\santy\KRUGER\CLIENTES\CENACE\REQUERIMIENTOS\REQ SIstema Web\SERVICIOSCENACE\Servicio.Domain\obj\Debug\net6.0\Servicio.Domain.csproj.AssemblyReference.cache
+D:\santy\KRUGER\CLIENTES\CENACE\REQUERIMIENTOS\REQ SIstema Web\SERVICIOSCENACE\Servicio.Domain\obj\Debug\net6.0\Servicio.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\santy\KRUGER\CLIENTES\CENACE\REQUERIMIENTOS\REQ SIstema Web\SERVICIOSCENACE\Servicio.Domain\obj\Debug\net6.0\Servicio.Domain.AssemblyInfoInputs.cache
+D:\santy\KRUGER\CLIENTES\CENACE\REQUERIMIENTOS\REQ SIstema Web\SERVICIOSCENACE\Servicio.Domain\obj\Debug\net6.0\Servicio.Domain.AssemblyInfo.cs
+D:\santy\KRUGER\CLIENTES\CENACE\REQUERIMIENTOS\REQ SIstema Web\SERVICIOSCENACE\Servicio.Domain\obj\Debug\net6.0\Servicio.Domain.csproj.CoreCompileInputs.cache
+D:\santy\KRUGER\CLIENTES\CENACE\REQUERIMIENTOS\REQ SIstema Web\SERVICIOSCENACE\Servicio.Domain\obj\Debug\net6.0\Servicio.Domain.dll
+D:\santy\KRUGER\CLIENTES\CENACE\REQUERIMIENTOS\REQ SIstema Web\SERVICIOSCENACE\Servicio.Domain\obj\Debug\net6.0\refint\Servicio.Domain.dll
+D:\santy\KRUGER\CLIENTES\CENACE\REQUERIMIENTOS\REQ SIstema Web\SERVICIOSCENACE\Servicio.Domain\obj\Debug\net6.0\Servicio.Domain.pdb
+D:\santy\KRUGER\CLIENTES\CENACE\REQUERIMIENTOS\REQ SIstema Web\SERVICIOSCENACE\Servicio.Domain\obj\Debug\net6.0\ref\Servicio.Domain.dll

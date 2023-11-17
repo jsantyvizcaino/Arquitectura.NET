@@ -1,0 +1,17 @@
+D:\santy\KRUGER\CLIENTES\CENACE\REQUERIMIENTOS\REQ SIstema Web\SERVICIOSCENACE\Servicio.Infrestructure\bin\Debug\net6.0\Servicio.Infrestructure.deps.json
+D:\santy\KRUGER\CLIENTES\CENACE\REQUERIMIENTOS\REQ SIstema Web\SERVICIOSCENACE\Servicio.Infrestructure\bin\Debug\net6.0\Servicio.Infrestructure.dll
+D:\santy\KRUGER\CLIENTES\CENACE\REQUERIMIENTOS\REQ SIstema Web\SERVICIOSCENACE\Servicio.Infrestructure\bin\Debug\net6.0\Servicio.Infrestructure.pdb
+D:\santy\KRUGER\CLIENTES\CENACE\REQUERIMIENTOS\REQ SIstema Web\SERVICIOSCENACE\Servicio.Infrestructure\bin\Debug\net6.0\Servicio.Application.dll
+D:\santy\KRUGER\CLIENTES\CENACE\REQUERIMIENTOS\REQ SIstema Web\SERVICIOSCENACE\Servicio.Infrestructure\bin\Debug\net6.0\Servicio.Domain.dll
+D:\santy\KRUGER\CLIENTES\CENACE\REQUERIMIENTOS\REQ SIstema Web\SERVICIOSCENACE\Servicio.Infrestructure\bin\Debug\net6.0\Servicio.Application.pdb
+D:\santy\KRUGER\CLIENTES\CENACE\REQUERIMIENTOS\REQ SIstema Web\SERVICIOSCENACE\Servicio.Infrestructure\bin\Debug\net6.0\Servicio.Domain.pdb
+D:\santy\KRUGER\CLIENTES\CENACE\REQUERIMIENTOS\REQ SIstema Web\SERVICIOSCENACE\Servicio.Infrestructure\obj\Debug\net6.0\Servicio.Infrestructure.csproj.AssemblyReference.cache
+D:\santy\KRUGER\CLIENTES\CENACE\REQUERIMIENTOS\REQ SIstema Web\SERVICIOSCENACE\Servicio.Infrestructure\obj\Debug\net6.0\Servicio.Infrestructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\santy\KRUGER\CLIENTES\CENACE\REQUERIMIENTOS\REQ SIstema Web\SERVICIOSCENACE\Servicio.Infrestructure\obj\Debug\net6.0\Servicio.Infrestructure.AssemblyInfoInputs.cache
+D:\santy\KRUGER\CLIENTES\CENACE\REQUERIMIENTOS\REQ SIstema Web\SERVICIOSCENACE\Servicio.Infrestructure\obj\Debug\net6.0\Servicio.Infrestructure.AssemblyInfo.cs
+D:\santy\KRUGER\CLIENTES\CENACE\REQUERIMIENTOS\REQ SIstema Web\SERVICIOSCENACE\Servicio.Infrestructure\obj\Debug\net6.0\Servicio.Infrestructure.csproj.CoreCompileInputs.cache
+D:\santy\KRUGER\CLIENTES\CENACE\REQUERIMIENTOS\REQ SIstema Web\SERVICIOSCENACE\Servicio.Infrestructure\obj\Debug\net6.0\Servicio.Infrestructure.csproj.CopyComplete
+D:\santy\KRUGER\CLIENTES\CENACE\REQUERIMIENTOS\REQ SIstema Web\SERVICIOSCENACE\Servicio.Infrestructure\obj\Debug\net6.0\Servicio.Infrestructure.dll
+D:\santy\KRUGER\CLIENTES\CENACE\REQUERIMIENTOS\REQ SIstema Web\SERVICIOSCENACE\Servicio.Infrestructure\obj\Debug\net6.0\refint\Servicio.Infrestructure.dll
+D:\santy\KRUGER\CLIENTES\CENACE\REQUERIMIENTOS\REQ SIstema Web\SERVICIOSCENACE\Servicio.Infrestructure\obj\Debug\net6.0\Servicio.Infrestructure.pdb
+D:\santy\KRUGER\CLIENTES\CENACE\REQUERIMIENTOS\REQ SIstema Web\SERVICIOSCENACE\Servicio.Infrestructure\obj\Debug\net6.0\ref\Servicio.Infrestructure.dll

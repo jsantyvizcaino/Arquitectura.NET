@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Servicio.Api</name>
+    </assembly>
+    <members>
+        <member name="T:Servicio.Api.Configuration.OData.ODataQueryOptionsFilter">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Servicio.Api.Configuration.OData.ODataQueryOptionsFilter.Apply(Microsoft.OpenApi.Models.OpenApiOperation,Swashbuckle.AspNetCore.SwaggerGen.OperationFilterContext)">
+            <summary>
+            Apply
+            </summary>
+            <param name="operation"></param>
+            <param name="context"></param>
+        </member>
+        <member name="T:Servicio.Api.Controllers.V1.ObtenerManiobrasController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Servicio.Api.Controllers.V1.ObtenerManiobrasController.#ctor(Microsoft.Extensions.Logging.ILogger{Servicio.Api.Controllers.V1.ObtenerManiobrasController},MediatR.IMediator)">
+            <summary>
+            
+            </summary>
+            <param name="logger"></param>
+            <param name="mediator"></param>
+        </member>
+        <member name="M:Servicio.Api.Controllers.V1.ObtenerManiobrasController.ObtenerManiobrasBosni(System.Int64)">
+            <summary>
+            
+            </summary>
+            <param name="idEjecucion"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Servicio.Api.Controllers.V1.PlanBianualController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Servicio.Api.Controllers.V1.PlanBianualController.#ctor(Microsoft.Extensions.Logging.ILogger{Servicio.Api.Controllers.V1.PlanBianualController},MediatR.IMediator)">
+            <summary>
+            PlanBianualController
+            </summary>
+            <param name="logger"></param>
+            <param name="mediator"></param>
+        </member>
+        <member name="M:Servicio.Api.Controllers.V1.PlanBianualController.ObtenerPlanesBianual(Microsoft.AspNetCore.OData.Query.ODataQueryOptions{Servicio.Application.DTOs.Planbianual.PlanBianualDto})">
+            <summary>
+            ObtenerPlanesBianual
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Servicio.Api.Extensions.ServiceExtensions.AddApiVersioningExtension(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            AddApiVersioningExtension
+            </summary>
+            <param name="services"></param>
+        </member>
+    </members>
+</doc>
